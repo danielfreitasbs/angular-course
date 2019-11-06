@@ -5,7 +5,6 @@ import { HttpModule } from '@angular/http';
 
 import { DataFormComponent } from './data-form.component';
 import { SharedModule } from '../shared/shared.module';
-import { importType } from '@angular/compiler/src/output/output_ast';
 
 
 @NgModule({
